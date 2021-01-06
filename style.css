@@ -1,0 +1,137 @@
+body{
+    margin:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+header{
+    float:right;
+    margin-right:70px;
+    padding:20px;
+    
+    
+}
+header > a{
+    margin:10px;
+    text-decoration: none;
+    font-size:20px;
+    color:black;
+}
+section{
+    height:700px;
+    margin-bottom: 10px;
+}
+
+.half-div{
+width:40%;
+float:left;
+margin-left:7%;
+padding-left: 2%;
+
+
+}
+.half-div img{
+    width:100%;
+}
+.half-div h1{
+    font-size: 50px;
+   
+}
+.highlight{
+    color:cyan;
+    
+    
+}
+
+.half-div a{
+    text-decoration: none;
+    background-color: darkorchid;
+    color:white;
+    padding:10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.container{
+    background-color:#F1F1F1 ;
+    padding: 5%;
+    height: 500px;
+}
+.card{
+    background-color:white ;
+    padding: 20px;
+    margin-left:4%;
+    width:300px;
+    border-radius: 7px;
+    box-shadow: 5px 5px 20px gray;
+   float:left;
+   height: 350px;
+
+    
+}
+
+.container h1{
+    text-align:center ;
+    padding: 30px;
+}
+.colorful{
+    color:orange;
+}
+.card img{
+   width:95%;
+   
+}
+.background{
+    background-image: url("images/Group_33094_1.png");
+    height: 300px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: auto;
+    border-radius: 30px;
+}
+#space{
+    margin: 100px 20px;
+}
+.align{
+    text-align: center;
+    padding: 5px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.align p{
+    color:gray;
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+    background-color: royalblue;
+    height: 50px;
+    color:orange;
+    font-weight: bold;
+}
+.LEFT{
+ font-size: 30px;
+ color:white;
+ float:left;
+ margin-left: 50px;
+ margin-top: 6%;
+}
+.RIGHT a{
+background-color: red;
+color: white;
+float:right;
+border-radius: 3px;
+padding:10px;
+margin-right: 50px;
+margin-top: 10%;
+text-decoration: none;
+}
+.half-div h1{
+    margin: 0px;
+}
+.clearfix{
+    clear: both;
+}
